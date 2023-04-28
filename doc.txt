@@ -1,0 +1,8 @@
+- flyweight interface -> iSoldier
+    + linked context
+- concrete flyweight -> Soldier
+    + trang thai noi tai
+- flyweight factory -> Factory
+    + map(key, value)
+- context -> Context
+    + trang thai ngoai vi
